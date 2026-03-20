@@ -84,8 +84,13 @@ function tierColor(tier: Tier) {
   }
 }
 
-function CharacterCard(props: { character: FemaleCharacter; tier: Tier | undefined }) {
-  const { character, tier } = props;
+function CharacterCard(props: {
+  character: FemaleCharacter;
+  tier: Tier | undefined;
+  selected: boolean;
+  onSelect: () => void;
+}) {
+  const { character, tier, selected, onSelect } = props;
   const isRanked = Boolean(tier);
   const teenYears = (() => {
     if (!isRanked) return false;
@@ -100,6 +105,10 @@ function CharacterCard(props: { character: FemaleCharacter; tier: Tier | undefin
     <div
       className="relative w-[120px] aspect-square rounded-xl border border-zinc-800 bg-black/40 shadow-sm overflow-hidden flex-none"
       draggable
+      onClick={(e) => {
+        e.stopPropagation();
+        onSelect();
+      }}
       onDragStart={(e) => {
         e.dataTransfer.setData("text/plain", character.id);
         e.dataTransfer.effectAllowed = "move";
@@ -139,6 +148,10 @@ function CharacterCard(props: { character: FemaleCharacter; tier: Tier | undefin
           </div>
         ) : null}
       </div>
+
+      {selected ? (
+        <div className="absolute inset-0 ring-2 ring-white/60 rounded-xl pointer-events-none" />
+      ) : null}
     </div>
   );
 }
@@ -147,12 +160,38 @@ function TierRow(props: {
   tier: Tier;
   characters: FemaleCharacter[];
   onDropCharacter: (id: string, tier: Tier) => void;
+  selectedId: string | null;
+  onClearSelection: () => void;
+  onSelectCharacter: (id: string) => void;
 }) {
-  const { tier, characters, onDropCharacter } = props;
+  const {
+    tier,
+    characters,
+    onDropCharacter,
+    selectedId,
+    onClearSelection,
+    onSelectCharacter,
+  } = props;
   const colors = tierColor(tier);
 
   return (
-    <div className="flex border-t border-zinc-800 first:border-t-0">
+    <div
+      className="flex border-t border-zinc-800 first:border-t-0 cursor-pointer"
+      role="button"
+      tabIndex={0}
+      onClick={() => {
+        if (!selectedId) return;
+        onDropCharacter(selectedId, tier);
+        onClearSelection();
+      }}
+      onKeyDown={(e) => {
+        if (e.key !== "Enter" && e.key !== " ") return;
+        if (!selectedId) return;
+        e.preventDefault();
+        onDropCharacter(selectedId, tier);
+        onClearSelection();
+      }}
+    >
       <div
         className={[
           "w-16 shrink-0 flex items-center justify-center font-extrabold text-lg",
@@ -180,7 +219,13 @@ function TierRow(props: {
             .slice()
             .sort((a, b) => a.name.localeCompare(b.name))
             .map((c) => (
-              <CharacterCard key={c.id} character={c} tier={tier} />
+              <CharacterCard
+                key={c.id}
+                character={c}
+                tier={tier}
+                selected={selectedId === c.id}
+                onSelect={() => onSelectCharacter(c.id)}
+              />
             ))}
         </div>
       </div>
@@ -192,6 +237,7 @@ export default function TierListApp() {
   const [dataset, setDataset] = useState<FemaleCharacter[] | null>(null);
   const [query, setQuery] = useState("");
   const [assignments, setAssignments] = useState<Assignments>({});
+  const [selectedId, setSelectedId] = useState<string | null>(null);
   const [shareCopied, setShareCopied] = useState(false);
 
   useEffect(() => {
@@ -331,6 +377,9 @@ export default function TierListApp() {
                     tier={tierLetter}
                     characters={byTier[tierLetter]}
                     onDropCharacter={moveCharacterToTier}
+                    selectedId={selectedId}
+                    onClearSelection={() => setSelectedId(null)}
+                    onSelectCharacter={(id) => setSelectedId((prev) => (prev === id ? null : id))}
                   />
                 ))}
               </div>
@@ -360,7 +409,13 @@ export default function TierListApp() {
                         .slice()
                         .sort((a, b) => a.name.localeCompare(b.name))
                         .map((c) => (
-                          <CharacterCard key={c.id} character={c} tier={undefined} />
+                          <CharacterCard
+                            key={c.id}
+                            character={c}
+                            tier={undefined}
+                            selected={selectedId === c.id}
+                            onSelect={() => setSelectedId((prev) => (prev === c.id ? null : c.id))}
+                          />
                         ))}
                     </div>
                   )
