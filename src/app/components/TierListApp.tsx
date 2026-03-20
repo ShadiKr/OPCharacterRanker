@@ -71,9 +71,9 @@ function decodeAssignments(encoded: string): Assignments {
 function CharacterCard(props: {
   character: FemaleCharacter;
   tier: Tier | undefined;
-  onChangeTier: (tier: Tier | undefined) => void;
+  // Only used to decide whether to show the minor badge (after being ranked).
 }) {
-  const { character, tier, onChangeTier } = props;
+  const { character, tier } = props;
 
   return (
     <div
@@ -88,55 +88,32 @@ function CharacterCard(props: {
         <Image
           src={character.portraitUrl ?? NO_PORTRAIT_PLACEHOLDER}
           alt={character.name}
-          width={64}
-          height={80}
+          width={80}
+          height={100}
           unoptimized
           className="rounded-lg object-cover bg-zinc-900 flex-none"
         />
         <div className="flex-1 min-w-0">
-          <div className="font-semibold text-sm leading-tight truncate text-zinc-50" title={character.name}>
+          <div
+            className="font-semibold text-sm leading-tight truncate text-zinc-50"
+            title={character.name}
+          >
             {character.name}
           </div>
-          <div className="text-xs text-zinc-400 mt-1">
-            {character.ageText ? character.ageText : "Age unknown"}
-          </div>
-          <div className="flex gap-2 mt-1 items-center">
-            <span
-              className={`inline-flex items-center rounded-full px-2 py-0.5 text-[11px] border ${
-                character.isMinor
-                  ? "bg-rose-500/15 border-rose-500/30 text-rose-200"
-                  : "bg-emerald-500/15 border-emerald-500/30 text-emerald-200"
-              }`}
-            >
-              {character.isMinor ? "Minor" : "Adult"}
+          <div className="text-xs text-zinc-200 mt-1">
+            Age:{" "}
+            <span className="font-medium text-zinc-50">
+              {character.ageText ? character.ageText : "unknown"}
             </span>
-            {tier ? (
-              <span className="inline-flex items-center rounded-full bg-zinc-900/60 border border-zinc-800 px-2 py-0.5 text-[11px] text-zinc-200">
-                Tier {tier}
-              </span>
-            ) : null}
           </div>
+
+          {tier && character.isMinor ? (
+            <div className="mt-2 inline-flex items-center rounded-full bg-rose-500/15 border border-rose-500/30 px-2 py-0.5 text-[11px] text-rose-200">
+              Minor
+            </div>
+          ) : null}
         </div>
       </div>
-
-      <label className="flex items-center gap-2 text-xs text-zinc-200">
-        <span className="whitespace-nowrap">Move to</span>
-        <select
-          className="flex-1 border border-zinc-800 rounded-lg px-2 py-1 text-xs bg-black/30 text-zinc-50"
-          value={tier ?? ""}
-          onChange={(e) => {
-            const v = e.target.value as Tier | "";
-            onChangeTier(v ? (v as Tier) : undefined);
-          }}
-        >
-          <option value="">Unassigned</option>
-          {TIERS.map((t) => (
-            <option key={t} value={t}>
-              {t}
-            </option>
-          ))}
-        </select>
-      </label>
     </div>
   );
 }
@@ -164,9 +141,8 @@ function TierRow(props: {
   tier: Tier;
   characters: FemaleCharacter[];
   onDropCharacter: (id: string, tier: Tier) => void;
-  onChangeTier: (id: string, tier: Tier | undefined) => void;
 }) {
-  const { tier, characters, onDropCharacter, onChangeTier } = props;
+  const { tier, characters, onDropCharacter } = props;
   const colors = tierColor(tier);
 
   return (
@@ -202,7 +178,6 @@ function TierRow(props: {
                 key={c.id}
                 character={c}
                 tier={tier}
-                onChangeTier={(nextTier) => onChangeTier(c.id, nextTier)}
               />
             ))}
         </div>
@@ -314,15 +289,6 @@ export default function TierListApp() {
     }));
   }
 
-  function changeTier(id: string, tier: Tier | undefined) {
-    setAssignments((prev) => {
-      const next: Assignments = { ...prev };
-      if (!tier) delete next[id];
-      else next[id] = tier;
-      return next;
-    });
-  }
-
   return (
     <div className="min-h-screen bg-gradient-to-br from-zinc-950 via-zinc-950 to-zinc-800 text-zinc-50">
       <header className="max-w-7xl mx-auto px-4 py-6">
@@ -352,7 +318,31 @@ export default function TierListApp() {
 
       <main className="max-w-7xl mx-auto px-4 pb-10">
         <section className="rounded-2xl border border-zinc-800 bg-black/40 p-4 shadow-sm">
-          <div className="flex flex-col lg:flex-row gap-4 lg:items-start">
+          <div className="flex flex-col gap-4">
+            <div className="flex-1 lg:flex-[1.3]">
+              <div className="flex items-center justify-between mb-3">
+                <div className="text-sm font-medium text-zinc-200">Your tiers</div>
+                <div className="text-xs text-zinc-400">
+                  Drag cards into tier columns or use the dropdown on each card.
+                </div>
+              </div>
+
+              <div className="rounded-2xl overflow-hidden border border-zinc-800">
+                {TIERS.map((tierLetter) => (
+                  <TierRow
+                    key={tierLetter}
+                    tier={tierLetter}
+                    characters={byTier[tierLetter]}
+                    onDropCharacter={moveCharacterToTier}
+                  />
+                ))}
+              </div>
+
+              <div className="mt-4 text-xs text-zinc-400">
+                Tip: For large datasets, start by searching for a few names, then assign them into tiers.
+              </div>
+            </div>
+
             <div className="flex-1">
               <label className="block text-sm font-medium text-zinc-200">
                 Search unassigned characters
@@ -380,7 +370,6 @@ export default function TierListApp() {
                             key={c.id}
                             character={c}
                             tier={undefined}
-                            onChangeTier={(nextTier) => changeTier(c.id, nextTier)}
                           />
                         ))}
                     </div>
@@ -398,31 +387,6 @@ export default function TierListApp() {
                     .
                   </div>
                 ) : null}
-              </div>
-            </div>
-
-            <div className="flex-1 lg:flex-[1.3]">
-              <div className="flex items-center justify-between mb-3">
-                <div className="text-sm font-medium text-zinc-200">Your tiers</div>
-                <div className="text-xs text-zinc-400">
-                  Drag cards into tier columns or use the dropdown on each card.
-                </div>
-              </div>
-
-              <div className="rounded-2xl overflow-hidden border border-zinc-800">
-                {TIERS.map((tierLetter) => (
-                  <TierRow
-                    key={tierLetter}
-                    tier={tierLetter}
-                    characters={byTier[tierLetter]}
-                    onDropCharacter={moveCharacterToTier}
-                    onChangeTier={changeTier}
-                  />
-                ))}
-              </div>
-
-              <div className="mt-4 text-xs text-zinc-400">
-                Tip: For large datasets, start by searching for a few names, then assign them into tiers.
               </div>
             </div>
           </div>
