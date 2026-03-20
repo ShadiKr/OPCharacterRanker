@@ -74,45 +74,47 @@ function CharacterCard(props: {
   // Only used to decide whether to show the minor badge (after being ranked).
 }) {
   const { character, tier } = props;
+  const isRanked = Boolean(tier);
 
   return (
     <div
-      className="rounded-xl border border-zinc-800 bg-black/40 shadow-sm p-3 flex flex-col gap-2"
+      className="relative w-[120px] aspect-square rounded-xl border border-zinc-800 bg-black/40 shadow-sm overflow-hidden flex-none"
       draggable
       onDragStart={(e) => {
         e.dataTransfer.setData("text/plain", character.id);
         e.dataTransfer.effectAllowed = "move";
       }}
     >
-      <div className="flex gap-3 items-start">
-        <Image
-          src={character.portraitUrl ?? NO_PORTRAIT_PLACEHOLDER}
-          alt={character.name}
-          width={80}
-          height={100}
-          unoptimized
-          className="rounded-lg object-cover bg-zinc-900 flex-none"
-        />
-        <div className="flex-1 min-w-0">
-          <div
-            className="font-semibold text-sm leading-tight truncate text-zinc-50"
-            title={character.name}
-          >
-            {character.name}
-          </div>
-          <div className="text-xs text-zinc-200 mt-1">
-            Age:{" "}
-            <span className="font-medium text-zinc-50">
-              {character.ageText ? character.ageText : "unknown"}
-            </span>
-          </div>
+      <Image
+        src={character.portraitUrl ?? NO_PORTRAIT_PLACEHOLDER}
+        alt={character.name}
+        fill
+        unoptimized
+        className="object-cover object-top"
+      />
 
-          {tier && character.isMinor ? (
-            <div className="mt-2 inline-flex items-center rounded-full bg-rose-500/15 border border-rose-500/30 px-2 py-0.5 text-[11px] text-rose-200">
-              Minor
-            </div>
-          ) : null}
+      <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
+
+      <div className="absolute left-2 right-2 bottom-2">
+        <div
+          className="font-semibold text-[13px] leading-snug truncate text-zinc-50"
+          title={character.name}
+        >
+          {character.name}
         </div>
+
+        {isRanked ? (
+          <div
+            className={[
+              "mt-1 inline-flex items-center rounded-full px-2 py-0.5 text-[10px]",
+              character.isMinor
+                ? "bg-rose-500/15 border border-rose-500/30 text-rose-200"
+                : "bg-emerald-500/15 border border-emerald-500/30 text-emerald-200",
+            ].join(" ")}
+          >
+            {character.isMinor ? "Minor" : "Adult"}
+          </div>
+        ) : null}
       </div>
     </div>
   );
@@ -169,7 +171,7 @@ function TierRow(props: {
           <div className="text-xs text-zinc-600 italic">Drop here</div>
         ) : null}
 
-        <div className="flex flex-col gap-2">
+        <div className="flex flex-col gap-2 items-start">
           {characters
             .slice()
             .sort((a, b) => a.name.localeCompare(b.name))
@@ -361,7 +363,7 @@ export default function TierListApp() {
                       No unassigned matches. Try clearing the search, or assign more characters.
                     </div>
                   ) : (
-                    <div className="grid sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-3">
+                    <div className="grid sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-3 items-start justify-items-start">
                       {pool
                         .slice()
                         .sort((a, b) => a.name.localeCompare(b.name))
