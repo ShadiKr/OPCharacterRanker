@@ -1,0 +1,2034 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-20T10:22:51.885Z",
+    "count": 289,
+    "source": "https://onepiece.fandom.com/wiki/One_Piece_Wiki",
+    "category": "Category:Female Characters",
+    "scrapeLimit": null
+  },
+  "characters": [
+    {
+      "id": "Acilia",
+      "name": "Acilia",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Acilia_Anime_Infobox.png/revision/latest/scale-to-width-down/276?cb=20180527001719",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Adele",
+      "name": "Adele",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Adele_Anime_Infobox.png/revision/latest/scale-to-width-down/169?cb=20130210042308",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ageha Woman",
+      "name": "Ageha Woman",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Ageha_Woman_Anime_Infobox.png/revision/latest/scale-to-width-down/273?cb=20240905004246",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ahho Zurako",
+      "name": "Ahho Zurako",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Ahho_Zurako_Anime_Infobox.png/revision/latest/scale-to-width-down/161?cb=20180417213414",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ahiru",
+      "name": "Ahiru",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Ahiru_Anime_Infobox.png/revision/latest/scale-to-width-down/148?cb=20240818020855",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Aisa",
+      "name": "Aisa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Aisa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/222?cb=20251207162352",
+      "ageText": "9 (debut) 11 (after timeskip)",
+      "isMinor": true
+    },
+    {
+      "id": "Alice",
+      "name": "Alice",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Alice_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/164?cb=20250914161110",
+      "ageText": "8 (debut) 10 (after timeskip)",
+      "isMinor": true
+    },
+    {
+      "id": "Ally",
+      "name": "Ally",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Ally_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20140917053123",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Alpha",
+      "name": "Alpha",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Alpha_Anime_Infobox.png/revision/latest/scale-to-width-down/150?cb=20250629164102",
+      "ageText": "Under 27",
+      "isMinor": false
+    },
+    {
+      "id": "Alvida",
+      "name": "Alvida",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest/scale-to-width-down/184?cb=20221116234952",
+      "ageText": "25 (debut) 27 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Amazon",
+      "name": "Amazon",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Amazon_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/202?cb=20111102113858",
+      "ageText": "77 (debut) 79 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Ange",
+      "name": "Ange",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Ange_Manga_Infobox.png/revision/latest/scale-to-width-down/276?cb=20241222150828",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Aremo Ganmi",
+      "name": "Aremo Ganmi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Aremo_Ganmi_Anime_Infobox.png/revision/latest/scale-to-width-down/155?cb=20140323063216",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Aswa",
+      "name": "Aswa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Aswa_Anime_Infobox.png/revision/latest?cb=20130918202446",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Azuki",
+      "name": "Azuki",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/84/Azuki_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210915120716",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Baburu",
+      "name": "Baburu",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/01/Baburu_Manga_Infobox.png/revision/latest/scale-to-width-down/220?cb=20240815223217",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Baby 5",
+      "name": "Baby 5",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest/scale-to-width-down/138?cb=20221011013323",
+      "ageText": "24",
+      "isMinor": false
+    },
+    {
+      "id": "Banchina",
+      "name": "Banchina",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/48/Banchina_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20250717210954",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Banshee",
+      "name": "Banshee",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Banshee_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20220306061402",
+      "ageText": "Over 30",
+      "isMinor": false
+    },
+    {
+      "id": "Bao Huang",
+      "name": "Bao Huang",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d1/Bao_Huang_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20220726180839",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Beegirl",
+      "name": "Beegirl",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Beegirl_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240907132511",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Bell-mère",
+      "name": "Bell-mère",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Bell-m%C3%A8re_Anime_Infobox.png/revision/latest/scale-to-width-down/193?cb=20231128171918",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Bellett",
+      "name": "Bellett",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Bellett_Anime_Infobox.png/revision/latest/scale-to-width-down/136?cb=20150320200502",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Belo Betty",
+      "name": "Belo Betty",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest/scale-to-width-down/160?cb=20240903112156",
+      "ageText": "34",
+      "isMinor": false
+    },
+    {
+      "id": "Bian",
+      "name": "Bian",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Bian_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20140609155533",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Bishonure-Onna",
+      "name": "Bishonure-Onna",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/96/Bishonure-Onna_Anime_Infobox.png/revision/latest/scale-to-width-down/172?cb=20240905055343",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Black Maria",
+      "name": "Black Maria",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20210808144206",
+      "ageText": "29",
+      "isMinor": false
+    },
+    {
+      "id": "Bluegrass",
+      "name": "Bluegrass",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Bluegrass_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20250504155120",
+      "ageText": "Over 76",
+      "isMinor": false
+    },
+    {
+      "id": "Brocca",
+      "name": "Brocca",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/95/Brocca_Anime_Infobox.png/revision/latest/scale-to-width-down/253?cb=20130811203314",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Buckingham Stussy",
+      "name": "Buckingham Stussy",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Buckingham_Stussy_Anime_Infobox.png/revision/latest/scale-to-width-down/299?cb=20190623142809",
+      "ageText": "76",
+      "isMinor": false
+    },
+    {
+      "id": "Caimanlady",
+      "name": "Caimanlady",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/49/Caimanlady_Anime_Infobox.png/revision/latest/scale-to-width-down/190?cb=20220530200304",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Camie",
+      "name": "Camie",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/179?cb=20130912213617",
+      "ageText": "16 (debut) 18 (after timeskip)",
+      "isMinor": true
+    },
+    {
+      "id": "Carmel",
+      "name": "Carmel",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/81/Carmel_Anime_Infobox.png/revision/latest/scale-to-width-down/141?cb=20230204190309",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Carrot",
+      "name": "Carrot",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest/scale-to-width-down/120?cb=20180826142459",
+      "ageText": "15",
+      "isMinor": true
+    },
+    {
+      "id": "Catarina Devon",
+      "name": "Catarina Devon",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/287?cb=20200112041332",
+      "ageText": "34 (debut) 36 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Akimeg",
+      "name": "Charlotte Akimeg",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Charlotte_Akimeg_Anime_Infobox.png/revision/latest/scale-to-width-down/196?cb=20190312135426",
+      "ageText": "18",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Allmeg",
+      "name": "Charlotte Allmeg",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/62/Charlotte_Allmeg_Anime_Infobox.png/revision/latest/scale-to-width-down/196?cb=20190312135442",
+      "ageText": "18",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Amande",
+      "name": "Charlotte Amande",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Amande_Anime_Infobox.png/revision/latest/scale-to-width-down/296?cb=20171016155845",
+      "ageText": "47",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Anana",
+      "name": "Charlotte Anana",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/18/Charlotte_Anana_Anime_Infobox.png/revision/latest/scale-to-width-down/132?cb=20171016152430",
+      "ageText": "8",
+      "isMinor": true
+    },
+    {
+      "id": "Charlotte Angel",
+      "name": "Charlotte Angel",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/35/Charlotte_Angel_Anime_Infobox.png/revision/latest?cb=20181019103814",
+      "ageText": "45",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Broyé",
+      "name": "Charlotte Broyé",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Broy%C3%A9_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20200223061328",
+      "ageText": "43",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Brûlée",
+      "name": "Charlotte Brûlée",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/167?cb=20170611174235",
+      "ageText": "43",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Chiffon",
+      "name": "Charlotte Chiffon",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Charlotte_Chiffon_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20170409062554",
+      "ageText": "26",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Cinnamon",
+      "name": "Charlotte Cinnamon",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Charlotte_Cinnamon_Anime_Infobox.png/revision/latest/scale-to-width-down/290?cb=20190203104624",
+      "ageText": "35",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Citron",
+      "name": "Charlotte Citron",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5b/Charlotte_Citron_Anime_Infobox.png/revision/latest/scale-to-width-down/311?cb=20190203104804",
+      "ageText": "35",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Compote",
+      "name": "Charlotte Compote",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Charlotte_Compote_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20230702183151",
+      "ageText": "49",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Cornstarch",
+      "name": "Charlotte Cornstarch",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Charlotte_Cornstarch_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20181021143336",
+      "ageText": "40",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Custard",
+      "name": "Charlotte Custard",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/da/Charlotte_Custard_Anime_Infobox.png/revision/latest/scale-to-width-down/304?cb=20181118084826",
+      "ageText": "45",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Effilée",
+      "name": "Charlotte Effilée",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Charlotte_Effil%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20181028095212",
+      "ageText": "47",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Flampe",
+      "name": "Charlotte Flampe",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/91/Charlotte_Flampe_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20190203105539",
+      "ageText": "15",
+      "isMinor": true
+    },
+    {
+      "id": "Charlotte Fuyumeg",
+      "name": "Charlotte Fuyumeg",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/22/Charlotte_Fuyumeg_Anime_Infobox.png/revision/latest/scale-to-width-down/172?cb=20190312135458",
+      "ageText": "18",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Galette",
+      "name": "Charlotte Galette",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/71/Charlotte_Galette_Anime_Infobox.png/revision/latest/scale-to-width-down/255?cb=20180721222625",
+      "ageText": "31",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Hachée",
+      "name": "Charlotte Hachée",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Charlotte_Hach%C3%A9e_Manga_Infobox.png/revision/latest/scale-to-width-down/151?cb=20181020074924",
+      "ageText": "47",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Harumeg",
+      "name": "Charlotte Harumeg",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/42/Charlotte_Harumeg_Anime_Infobox.png/revision/latest/scale-to-width-down/255?cb=20190312135453",
+      "ageText": "18",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Joconde",
+      "name": "Charlotte Joconde",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/99/Charlotte_Joconde_Anime_Infobox.png/revision/latest/scale-to-width-down/189?cb=20190120090320",
+      "ageText": "23",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Joscarpone",
+      "name": "Charlotte Joscarpone",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Charlotte_Joscarpone_Anime_Infobox.png/revision/latest/scale-to-width-down/167?cb=20171030014906",
+      "ageText": "20",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Lola",
+      "name": "Charlotte Lola",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/222?cb=20201012081800",
+      "ageText": "24 (debut) 26 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Maple",
+      "name": "Charlotte Maple",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Charlotte_Maple_Manga_Infobox.png/revision/latest/scale-to-width-down/221?cb=20181020074217",
+      "ageText": "25",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Marble",
+      "name": "Charlotte Marble",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Charlotte_Marble_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20190210133123",
+      "ageText": "25",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Marnier",
+      "name": "Charlotte Marnier",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/00/Charlotte_Marnier_Anime_Infobox.png/revision/latest/scale-to-width-down/228?cb=20220128065829",
+      "ageText": "37",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Mash",
+      "name": "Charlotte Mash",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Charlotte_Mash_Anime_Infobox.png/revision/latest/scale-to-width-down/192?cb=20181019104128",
+      "ageText": "40",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Melise",
+      "name": "Charlotte Melise",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/52/Charlotte_Melise_Manga_Infobox.png/revision/latest/scale-to-width-down/191?cb=20181019075753",
+      "ageText": "33",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Mondée",
+      "name": "Charlotte Mondée",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Charlotte_Mond%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/312?cb=20181028141559",
+      "ageText": "47",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Mozart",
+      "name": "Charlotte Mozart",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Charlotte_Mozart_Anime_Infobox.png/revision/latest/scale-to-width-down/195?cb=20181020133405",
+      "ageText": "37",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Myukuru",
+      "name": "Charlotte Myukuru",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/03/Charlotte_Myukuru_Anime_Infobox.png/revision/latest/scale-to-width-down/190?cb=20171122125803",
+      "ageText": "25",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Normande",
+      "name": "Charlotte Normande",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Charlotte_Normande_Anime_Infobox.png/revision/latest?cb=20181019183301",
+      "ageText": "10",
+      "isMinor": true
+    },
+    {
+      "id": "Charlotte Nutmeg",
+      "name": "Charlotte Nutmeg",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/45/Charlotte_Nutmeg_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20190312135408",
+      "ageText": "18",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Panna",
+      "name": "Charlotte Panna",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/91/Charlotte_Panna_Manga_Infobox.png/revision/latest/scale-to-width-down/202?cb=20190122023834",
+      "ageText": "21",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Poire",
+      "name": "Charlotte Poire",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/57/Charlotte_Poire_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20200315062453",
+      "ageText": "31",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Praline",
+      "name": "Charlotte Praline",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/11/Charlotte_Praline_Anime_Infobox.png/revision/latest/scale-to-width-down/182?cb=20170528042923",
+      "ageText": "29",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Prim",
+      "name": "Charlotte Prim",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Charlotte_Prim_Anime_Infobox.png/revision/latest/scale-to-width-down/227?cb=20190210125948",
+      "ageText": "29",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Pudding",
+      "name": "Charlotte Pudding",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest/scale-to-width-down/167?cb=20250106015531",
+      "ageText": "16",
+      "isMinor": true
+    },
+    {
+      "id": "Charlotte Smoothie",
+      "name": "Charlotte Smoothie",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Smoothie_Anime_Infobox.png/revision/latest/scale-to-width-down/137?cb=20180423150946",
+      "ageText": "35",
+      "isMinor": false
+    },
+    {
+      "id": "Charlotte Wafers",
+      "name": "Charlotte Wafers",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Charlotte_Wafers_Anime_Infobox.png/revision/latest/scale-to-width-down/258?cb=20181020102206",
+      "ageText": "13",
+      "isMinor": true
+    },
+    {
+      "id": "Chicken",
+      "name": "Chicken",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a8/Chicken_Anime_Infobox.png/revision/latest/scale-to-width-down/256?cb=20190124073900",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Chicory",
+      "name": "Chicory",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Chicory_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20231027221818",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Chihaya",
+      "name": "Chihaya",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/68/Chihaya_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210707182536",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Chimney",
+      "name": "Chimney",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Chimney_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/203?cb=20250318234329",
+      "ageText": "8 (debut) 10 (after timeskip)",
+      "isMinor": true
+    },
+    {
+      "id": "Cho",
+      "name": "Cho",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Cho_Anime_Infobox.png/revision/latest/scale-to-width-down/170?cb=20211031180026",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Chocho",
+      "name": "Chocho",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d1/Chocho_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210630170808",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Chocolat",
+      "name": "Chocolat",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Chocolat_Anime_Infobox.png/revision/latest/scale-to-width-down/251?cb=20130206215833",
+      "ageText": "26",
+      "isMinor": false
+    },
+    {
+      "id": "Chome",
+      "name": "Chome",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Chome_Anime_Infobox.png/revision/latest/scale-to-width-down/229?cb=20200323071143",
+      "ageText": "14",
+      "isMinor": true
+    },
+    {
+      "id": "Cocoa",
+      "name": "Cocoa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/67/Cocoa_Anime_Infobox.png/revision/latest/scale-to-width-down/120?cb=20130129015814",
+      "ageText": "27",
+      "isMinor": false
+    },
+    {
+      "id": "Columbus",
+      "name": "Columbus",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Columbus_Manga_Infobox.png/revision/latest/scale-to-width-down/160?cb=20180605100904",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Conis",
+      "name": "Conis",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Conis_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/145?cb=20251207162322",
+      "ageText": "19 (debut) 21 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Cosette",
+      "name": "Cosette",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/24/Cosette_Anime_Infobox.png/revision/latest/scale-to-width-down/147?cb=20170806154804",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Cotton",
+      "name": "Cotton",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/29/Cotton_Anime_Infobox.png/revision/latest/scale-to-width-down/208?cb=20170926005054",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Curly Dadan",
+      "name": "Curly Dadan",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Curly_Dadan_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20160802231340",
+      "ageText": "43 (debut) 53 (pre-timeskip) 55 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Demoni Aiyo",
+      "name": "Demoni Aiyo",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/22/Demoni_Aiyo_Manga_Infobox.png/revision/latest/scale-to-width-down/134?cb=20241102012923",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Didit",
+      "name": "Didit",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/79/Didit_Anime_Infobox.png/revision/latest/scale-to-width-down/126?cb=20190703220715",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Dive",
+      "name": "Dive",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Dive_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20231029102947",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Doll",
+      "name": "Doll",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/90/Doll_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240114021245",
+      "ageText": "Over 22",
+      "isMinor": false
+    },
+    {
+      "id": "Domino",
+      "name": "Domino",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/11/Domino_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/206?cb=20170312041522",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Drophy",
+      "name": "Drophy",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Drophy_Anime_Infobox.png/revision/latest/scale-to-width-down/234?cb=20230624124714",
+      "ageText": "49 (debut) 51 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Eikon",
+      "name": "Eikon",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/25/Eikon_Anime_Infobox.png/revision/latest/scale-to-width-down/206?cb=20250510223451",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Elmy",
+      "name": "Elmy",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/28/Elmy_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20101024180111",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Emma",
+      "name": "Emma",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Emma_Anime_Infobox.png/revision/latest/scale-to-width-down/127?cb=20240714021218",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Époni",
+      "name": "Époni",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c1/%C3%89poni_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20170903021553",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Eris",
+      "name": "Eris",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/20/Eris_Manga_Infobox.png/revision/latest/scale-to-width-down/196?cb=20251102151619",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Esta",
+      "name": "Esta",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Esta_Anime_Infobox.png/revision/latest/scale-to-width-down/132?cb=20140601141836",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ettara Chaunkai",
+      "name": "Ettara Chaunkai",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Ettara_Chaunkai_Manga_Infobox.png/revision/latest/scale-to-width-down/121?cb=20241102014609",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Fillonce",
+      "name": "Fillonce",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Fillonce_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20130405055938",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Flare",
+      "name": "Flare",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/de/Flare_Anime_Infobox.png/revision/latest/scale-to-width-down/226?cb=20240121154340",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Fukumi",
+      "name": "Fukumi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Fukumi_Manga_Infobox.png/revision/latest?cb=20240623184303",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Furika",
+      "name": "Furika",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/07/Furika_Manga_Infobox.png/revision/latest/scale-to-width-down/159?cb=20241102040327",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Gatherine",
+      "name": "Gatherine",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Gatherine_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240709033144",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Gerd",
+      "name": "Gerd",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/83/Gerd_Anime_Infobox.png/revision/latest/scale-to-width-down/246?cb=20190519091519",
+      "ageText": "75",
+      "isMinor": false
+    },
+    {
+      "id": "Gina",
+      "name": "Gina",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Gina_Anime_Infobox.png/revision/latest/scale-to-width-down/150?cb=20131122142137",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ginko",
+      "name": "Ginko",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/60/Ginko_Anime_Infobox.png/revision/latest/scale-to-width-down/178?cb=20131011204559",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ginny",
+      "name": "Ginny",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/73/Ginny_Anime_Infobox.png/revision/latest/scale-to-width-down/195?cb=20250601163152",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ginrummy",
+      "name": "Ginrummy",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Ginrummy_Anime_Infobox.png/revision/latest/scale-to-width-down/180?cb=20170116011351",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Giolla",
+      "name": "Giolla",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/21/Giolla_Anime_Infobox.png/revision/latest/scale-to-width-down/189?cb=20221117034510",
+      "ageText": "61",
+      "isMinor": false
+    },
+    {
+      "id": "Gion",
+      "name": "Gion",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Gion_Anime_Infobox.png/revision/latest/scale-to-width-down/204?cb=20221101153309",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Grabar",
+      "name": "Grabar",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Grabar_Anime_Infobox.png/revision/latest/scale-to-width-down/310?cb=20140805072433",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Gram",
+      "name": "Gram",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Gram_Anime_Infobox.png/revision/latest/scale-to-width-down/271?cb=20210108114326",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Hana",
+      "name": "Hana",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Hana_Anime_Infobox.png/revision/latest/scale-to-width-down/173?cb=20210516043523",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Hatsume",
+      "name": "Hatsume",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Hatsume_Anime_Infobox.png/revision/latest/scale-to-width-down/233?cb=20240704024708",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Hera",
+      "name": "Hera",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/42/Hera_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20230625043938",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Herb",
+      "name": "Herb",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Herb_Anime_Infobox.png/revision/latest/scale-to-width-down/125?cb=20220119070054",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Hibari",
+      "name": "Hibari",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Hibari_Anime_Infobox.png/revision/latest/scale-to-width-down/175?cb=20240114021335",
+      "ageText": "17",
+      "isMinor": true
+    },
+    {
+      "id": "Hina",
+      "name": "Hina",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest/scale-to-width-down/267?cb=20231125233601",
+      "ageText": "32 (debut) 34 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Hip",
+      "name": "Hip",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/97/Hip_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20230611033449",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Hiramera",
+      "name": "Hiramera",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/69/Hiramera_Anime_Infobox.png/revision/latest/scale-to-width-down/207?cb=20140922061819",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Hop",
+      "name": "Hop",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/17/Hop_Anime_Infobox.png/revision/latest/scale-to-width-down/193?cb=20240714021722",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Hototogisu",
+      "name": "Hototogisu",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/08/Hototogisu_Anime_Infobox.png/revision/latest/scale-to-width-down/221?cb=20240229205934",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "House",
+      "name": "House",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/05/House_Anime_Infobox.png/revision/latest/scale-to-width-down/252?cb=20240714021405",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ida",
+      "name": "Ida",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Ida_Manga_Infobox.png/revision/latest/scale-to-width-down/172?cb=20250713151252",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ikkaku",
+      "name": "Ikkaku",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Ikkaku_Anime_Infobox.png/revision/latest/scale-to-width-down/187?cb=20221023211801",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ipponume",
+      "name": "Ipponume",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/48/Ipponume_Anime_Infobox.png/revision/latest/scale-to-width-down/292?cb=20190105001659",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Isa",
+      "name": "Isa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Isa_Anime_Infobox.png/revision/latest/scale-to-width-down/110?cb=20131007200927",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ishilly",
+      "name": "Ishilly",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c6/Ishilly_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20130912210139",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Isuka",
+      "name": "Isuka",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/41/Isuka_Manga_Infobox.png/revision/latest/scale-to-width-down/265?cb=20180305101925",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Iyan'eno Chinode",
+      "name": "Iyan'eno Chinode",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/cb/Iyan%27eno_Chinode_Anime_Infobox.png/revision/latest/scale-to-width-down/283?cb=20240526020906",
+      "ageText": "24",
+      "isMinor": false
+    },
+    {
+      "id": "Jigoku Benten",
+      "name": "Jigoku Benten",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Jigoku_Benten_Anime_Infobox.png/revision/latest/scale-to-width-down/229?cb=20200927052340",
+      "ageText": "21",
+      "isMinor": false
+    },
+    {
+      "id": "Johanna",
+      "name": "Johanna",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/25/Johanna_Manga_Infobox.png/revision/latest/scale-to-width-down/306?cb=20250427151446",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Jugemu Jugemuko",
+      "name": "Jugemu Jugemuko",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Jugemu_Jugemuko_Anime_Infobox.png/revision/latest/scale-to-width-down/156?cb=20240911050805",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kairen",
+      "name": "Kairen",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Kairen_Anime_Infobox.png/revision/latest/scale-to-width-down/277?cb=20140916083206",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kalifa",
+      "name": "Kalifa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Kalifa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/146?cb=20240915021516",
+      "ageText": "25 (debut) 27 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Kamakirigirl",
+      "name": "Kamakirigirl",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/28/Kamakirigirl_Anime_Infobox.png/revision/latest/scale-to-width-down/187?cb=20240905094532",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kanezenny",
+      "name": "Kanezenny",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Kanezenny_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20240704230652",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Karin",
+      "name": "Karin",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Karin_Manga_Infobox.png/revision/latest/scale-to-width-down/233?cb=20250427151518",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kasa",
+      "name": "Kasa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/df/Kasa_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20131010212034",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kaya",
+      "name": "Kaya",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kaya_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/89?cb=20180617114926",
+      "ageText": "17 (debut) 19 (after timeskip)",
+      "isMinor": true
+    },
+    {
+      "id": "Kikunojo",
+      "name": "Kikunojo",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest/scale-to-width-down/279?cb=20200620104530",
+      "ageText": "22 (born 42 years ago)",
+      "isMinor": false
+    },
+    {
+      "id": "Kisegawa",
+      "name": "Kisegawa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/20/Kisegawa_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20231120221854",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Koala",
+      "name": "Koala",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest/scale-to-width-down/197?cb=20140928211728",
+      "ageText": "11 (Flashback, debut) 23 (present)",
+      "isMinor": true
+    },
+    {
+      "id": "Koda",
+      "name": "Koda",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Koda_Manga_Infobox.png/revision/latest/scale-to-width-down/195?cb=20130913002720",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Koito",
+      "name": "Koito",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Koito_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20211203152944",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kokoro",
+      "name": "Kokoro",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Kokoro_Anime_Infobox.png/revision/latest/scale-to-width-down/221?cb=20250318233550",
+      "ageText": "70 (debut) 72 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Kouzuki Hiyori",
+      "name": "Kouzuki Hiyori",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/97/Kouzuki_Hiyori_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20200811195812",
+      "ageText": "26",
+      "isMinor": false
+    },
+    {
+      "id": "Kouzuki Toki",
+      "name": "Kouzuki Toki",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kouzuki_Toki_Anime_Infobox.png/revision/latest/scale-to-width-down/124?cb=20240923154828",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kujaku",
+      "name": "Kujaku",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/84/Kujaku_Anime_Infobox.png/revision/latest/scale-to-width-down/170?cb=20240811124929",
+      "ageText": "26",
+      "isMinor": false
+    },
+    {
+      "id": "Kumadori Yamanbako",
+      "name": "Kumadori Yamanbako",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/53/Kumadori_Yamanbako_Manga_Infobox.png/revision/latest?cb=20130115033607",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kunyun",
+      "name": "Kunyun",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Kunyun_Anime_Infobox.png/revision/latest/scale-to-width-down/229?cb=20221204213804",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kureha",
+      "name": "Kureha",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest/scale-to-width-down/159?cb=20150819163116",
+      "ageText": "139 (debut) 141 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Kurozumi Higurashi",
+      "name": "Kurozumi Higurashi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kurozumi_Higurashi_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210418042139",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Kurozumi Tama",
+      "name": "Kurozumi Tama",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Kurozumi_Tama_Anime_Infobox.png/revision/latest/scale-to-width-down/164?cb=20210210051806",
+      "ageText": "8",
+      "isMinor": true
+    },
+    {
+      "id": "Kyuin",
+      "name": "Kyuin",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Kyuin_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20150510163904",
+      "ageText": "20",
+      "isMinor": false
+    },
+    {
+      "id": "Lady Tree",
+      "name": "Lady Tree",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Lady_Tree_Anime_Infobox.png/revision/latest/scale-to-width-down/311?cb=20180715034331",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Lily",
+      "name": "Lily",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Lily_Anime_Infobox.png/revision/latest/scale-to-width-down/200?cb=20121213222949",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Linaria",
+      "name": "Linaria",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Linaria_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240714020915",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Lola (Zombie)",
+      "name": "Lola (Zombie)",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Lola_%28Zombie%29_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20231205033701",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Love",
+      "name": "Love",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Love_Anime_Infobox.png/revision/latest/scale-to-width-down/161?cb=20260312170930",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Lulis",
+      "name": "Lulis",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Lulis_Anime_Infobox.png/revision/latest/scale-to-width-down/208?cb=20140916073804",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Magnolia",
+      "name": "Magnolia",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/17/Garling_Stabs_Shanks_%26_Shamrock_Mother.png/revision/latest/scale-to-width-down/320?cb=20250907150619",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Maidy",
+      "name": "Maidy",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/86/Maidy_Anime_Infobox.png/revision/latest/scale-to-width-down/237?cb=20131108231756",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Maki",
+      "name": "Maki",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/da/Maki_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210628192034",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Makino",
+      "name": "Makino",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Makino_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/254?cb=20240914133612",
+      "ageText": "19 (debut); 29 (pre-timeskip) 31 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Mani",
+      "name": "Mani",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/54/Mani_Anime_Infobox.png/revision/latest/scale-to-width-down/241?cb=20180426220153",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Margarita",
+      "name": "Margarita",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Margarita_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20140512153338",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Maria Napole",
+      "name": "Maria Napole",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/be/Maria_Napole_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20121021012731",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Marianne",
+      "name": "Marianne",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Marianne_Anime_Infobox.png/revision/latest/scale-to-width-down/198?cb=20250115010211",
+      "ageText": "16 (debut) 18 (after timeskip)",
+      "isMinor": true
+    },
+    {
+      "id": "Marie",
+      "name": "Marie",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Marie_Anime_Infobox.png/revision/latest/scale-to-width-down/182?cb=20100123233337",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Marilyn",
+      "name": "Marilyn",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/40/Marilyn_Anime_Infobox.png/revision/latest/scale-to-width-down/212?cb=20100420082643",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Marumieta",
+      "name": "Marumieta",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/77/Marumieta_Manga_Infobox.png/revision/latest/scale-to-width-down/157?cb=20130917025522",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Mato",
+      "name": "Mato",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/22/Mato_Anime_Infobox.png/revision/latest/scale-to-width-down/264?cb=20250103212833",
+      "ageText": "Over 44",
+      "isMinor": false
+    },
+    {
+      "id": "Medaka Mermaid Quintuplets",
+      "name": "Medaka Mermaid Quintuplets",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/23/Medaka_Mermaid_Quintuplets_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20241208020531",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Mero",
+      "name": "Mero",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/55/Mero_Anime_Infobox.png/revision/latest/scale-to-width-down/245?cb=20130720075238",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Mikita",
+      "name": "Mikita",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Mikita_Anime_Infobox.png/revision/latest/scale-to-width-down/135?cb=20230417164634",
+      "ageText": "22 (debut) 24 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Milky",
+      "name": "Milky",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Milky_Anime_Infobox.png/revision/latest/scale-to-width-down/157?cb=20200703145037",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Misery",
+      "name": "Misery",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Misery_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20230625052545",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Catherina",
+      "name": "Miss Catherina",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/15/Miss_Catherina_Anime_Infobox.png/revision/latest/scale-to-width-down/120?cb=20240712024031",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Father's Day",
+      "name": "Miss Father's Day",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Miss_Father%27s_Day_Anime_Infobox.png/revision/latest/scale-to-width-down/125?cb=20221128165323",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Friday",
+      "name": "Miss Friday",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Miss_Friday_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20250526181805",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Monday",
+      "name": "Miss Monday",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Miss_Monday_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/163?cb=20251130161712",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Mother's Day",
+      "name": "Miss Mother's Day",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/320?cb=20210110135101",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Saturday",
+      "name": "Miss Saturday",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/320?cb=20210110135101",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Thursday",
+      "name": "Miss Thursday",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/68/Miss_Thursday_Infobox.png/revision/latest/scale-to-width-down/156?cb=20260317132825",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Miss Tuesday",
+      "name": "Miss Tuesday",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/50/Miss_Tuesday_Infobox.png/revision/latest/scale-to-width-down/132?cb=20230423210340",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Misty",
+      "name": "Misty",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Misty_Anime_Infobox.png/revision/latest/scale-to-width-down/161?cb=20260312170900",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Mizerka",
+      "name": "Mizerka",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/00/Mizerka_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20220220040415",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Mizuira",
+      "name": "Mizuira",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1a/Mizuira_Manga_Infobox.png/revision/latest?cb=20241116132721",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Mocha",
+      "name": "Mocha",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/94/Mocha_Anime_Infobox.png/revision/latest/scale-to-width-down/124?cb=20130814011520",
+      "ageText": "9",
+      "isMinor": true
+    },
+    {
+      "id": "Moda",
+      "name": "Moda",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Moda_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/150?cb=20240818021019",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Monet",
+      "name": "Monet",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest/scale-to-width-down/205?cb=20140616000310",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Moodie",
+      "name": "Moodie",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Moodie_Anime_Infobox.png/revision/latest/scale-to-width-down/233?cb=20240308005758",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Morley",
+      "name": "Morley",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20230517025343",
+      "ageText": "160",
+      "isMinor": false
+    },
+    {
+      "id": "Mousse",
+      "name": "Mousse",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/de/Mousse_Anime_Infobox.png/revision/latest/scale-to-width-down/135?cb=20130218235507",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Mozu and Kiwi",
+      "name": "Mozu and Kiwi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20250224005132",
+      "ageText": "19 (Mozu, debut); 21 (Mozu, after timeskip) 20 (Kiwi, debut); 22 (Kiwi, after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Mummy Mee",
+      "name": "Mummy Mee",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/70/Mummy_Mee_Anime_Infobox.png/revision/latest/scale-to-width-down/131?cb=20250427191528",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Muret",
+      "name": "Muret",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/06/Muret_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20130513233142",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Muti",
+      "name": "Muti",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Muti_Anime_Infobox.png/revision/latest/scale-to-width-down/180?cb=20241101174230",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Nami",
+      "name": "Nami",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/191?cb=20260315214841",
+      "ageText": "18 (debut) 20 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Negikuma Maria",
+      "name": "Negikuma Maria",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Negikuma_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20130624224333",
+      "ageText": "43 (debut) 45 (post-timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Nico Olvia",
+      "name": "Nico Olvia",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Nico_Olvia_Anime_Infobox.png/revision/latest/scale-to-width-down/176?cb=20180131184905",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Nico Robin",
+      "name": "Nico Robin",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/164?cb=20190202051257",
+      "ageText": "28 (debut) 30 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Nightcrab Girl",
+      "name": "Nightcrab Girl",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Nightcrab_Girl_Anime_Infobox.png/revision/latest/scale-to-width-down/245?cb=20240905081147",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Nojiko",
+      "name": "Nojiko",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/89?cb=20251109161125",
+      "ageText": "20 (debut) 22 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Nokotti",
+      "name": "Nokotti",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Nokotti_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210910135850",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Noriko",
+      "name": "Noriko",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Noriko_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210916191505",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Nure-Onna",
+      "name": "Nure-Onna",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Nure-Onna_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20221211145444",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Octopako",
+      "name": "Octopako",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Octopako_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20150520131721",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Oide",
+      "name": "Oide",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/51/Oide_Anime_Infobox.png/revision/latest/scale-to-width-down/272?cb=20210501122020",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Okame",
+      "name": "Okame",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/42/Okame_Anime_Infobox.png/revision/latest/scale-to-width-down/168?cb=20180427205129",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Oli",
+      "name": "Oli",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Oli_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240623020916",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Pandawomanmi",
+      "name": "Pandawomanmi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/82/Pandawomanmi_Manga_Infobox.png/revision/latest?cb=20130222221711",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Pascia",
+      "name": "Pascia",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/61/Pascia_Anime_Infobox.png/revision/latest/scale-to-width-down/181?cb=20180128141750",
+      "ageText": "20 (debut)",
+      "isMinor": false
+    },
+    {
+      "id": "Perona",
+      "name": "Perona",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/186?cb=20221124200121",
+      "ageText": "23 (debut) 25 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Porche",
+      "name": "Porche",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Porche_Anime_Infobox.png/revision/latest/scale-to-width-down/120?cb=20240523234723",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Portgas D. Rouge",
+      "name": "Portgas D. Rouge",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Portgas_D._Rouge_Anime_Infobox.png/revision/latest/scale-to-width-down/234?cb=20240731221040",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Pururu",
+      "name": "Pururu",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/24/Pururu_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240714020722",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Quincy",
+      "name": "Quincy",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Quincy_Anime_Infobox.png/revision/latest/scale-to-width-down/141?cb=20230625035459",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Raki",
+      "name": "Raki",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest/scale-to-width-down/281?cb=20161029212453",
+      "ageText": "20 (debut) 22 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Renona Topakka",
+      "name": "Renona Topakka",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/29/Renona_Topakka_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20241101200401",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Rika",
+      "name": "Rika",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Rika_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/105?cb=20170318151459",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Rint",
+      "name": "Rint",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Rint_Anime_Infobox.png/revision/latest/scale-to-width-down/230?cb=20100426181013",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ripley",
+      "name": "Ripley",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/73/Ripley_Manga_Infobox.png/revision/latest/scale-to-width-down/199?cb=20250103213104",
+      "ageText": "80",
+      "isMinor": false
+    },
+    {
+      "id": "Ririka",
+      "name": "Ririka",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Ririka_Anime_Infobox.png/revision/latest/scale-to-width-down/125?cb=20190625084415",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Roji",
+      "name": "Roji",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/42/Roji_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20100426185345",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ronja",
+      "name": "Ronja",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Ronja_Manga_Infobox.png/revision/latest/scale-to-width-down/91?cb=20250511152326",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Rosward Shalria",
+      "name": "Rosward Shalria",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/34/Rosward_Shalria_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20250309015351",
+      "ageText": "15 (debut) 17 (after timeskip)",
+      "isMinor": true
+    },
+    {
+      "id": "Roxanne",
+      "name": "Roxanne",
+      "portraitUrl": null,
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Russian",
+      "name": "Russian",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/88/Russian_Anime_Infobox.png/revision/latest/scale-to-width-down/307?cb=20190324230039",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "S-Snake",
+      "name": "S-Snake",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/31/S-Snake_Anime_Infobox.png/revision/latest/scale-to-width-down/182?cb=20240630021959",
+      "ageText": "2 (biologically 8)",
+      "isMinor": true
+    },
+    {
+      "id": "Sadi",
+      "name": "Sadi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/38/Sadi_Anime_Infobox.png/revision/latest/scale-to-width-down/202?cb=20221023232535",
+      "ageText": "21 (debut) 23 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Saki",
+      "name": "Saki",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/54/Saki_Anime_Infobox.png/revision/latest?cb=20200816083206",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Sarahebi",
+      "name": "Sarahebi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Sarahebi_Anime_Infobox.png/revision/latest/scale-to-width-down/136?cb=20220220054553",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Sarfunkel",
+      "name": "Sarfunkel",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Sarfunkel_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20251130162631",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Satchels Maffey",
+      "name": "Satchels Maffey",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/79/Satchels_Maffey_Manga_Infobox.png/revision/latest/scale-to-width-down/144?cb=20250928150656",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Scorpionlady",
+      "name": "Scorpionlady",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Scorpionlady_Anime_Infobox.png/revision/latest/scale-to-width-down/273?cb=20240907132921",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Seira",
+      "name": "Seira",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Seira_Anime_Infobox.png/revision/latest/scale-to-width-down/306?cb=20140916073654",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Shelly",
+      "name": "Shelly",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/64/Shelly_Anime_Infobox.png/revision/latest/scale-to-width-down/263?cb=20130416202251",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Shimotsuki Furiko",
+      "name": "Shimotsuki Furiko",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/11/Shimotsuki_Furiko_Portrait.png/revision/latest?cb=20230420195044",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Shimotsuki Kuina",
+      "name": "Shimotsuki Kuina",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest/scale-to-width-down/203?cb=20241110050028",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Shin Detamaruka",
+      "name": "Shin Detamaruka",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Shin_Detamaruka_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20160404155350",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Shin Jaiya",
+      "name": "Shin Jaiya",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Shin_Jaiya_Anime_Infobox.png/revision/latest/scale-to-width-down/212?cb=20160404155403",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Shinobu",
+      "name": "Shinobu",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Shinobu_Anime_Infobox.png/revision/latest/scale-to-width-down/185?cb=20241015051553",
+      "ageText": "49",
+      "isMinor": false
+    },
+    {
+      "id": "Shyarly",
+      "name": "Shyarly",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shyarly_Anime_Infobox.png/revision/latest/scale-to-width-down/255?cb=20131112030157",
+      "ageText": "29",
+      "isMinor": false
+    },
+    {
+      "id": "Solitaire",
+      "name": "Solitaire",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/52/Solitaire_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20200629152716",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Some",
+      "name": "Some",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/33/Some_Anime_Infobox.png/revision/latest/scale-to-width-down/185?cb=20230507022524",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Sora",
+      "name": "Sora",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/be/Sora_Anime_Infobox.png/revision/latest/scale-to-width-down/187?cb=20130723205542",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Speed",
+      "name": "Speed",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Speed_Anime_Infobox.png/revision/latest/scale-to-width-down/245?cb=20241110183728",
+      "ageText": "24",
+      "isMinor": false
+    },
+    {
+      "id": "Stussy",
+      "name": "Stussy",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Stussy_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20240512081047",
+      "ageText": "36",
+      "isMinor": false
+    },
+    {
+      "id": "Su",
+      "name": "Su",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/32/Su_Anime_Infobox.png/revision/latest/scale-to-width-down/269?cb=20131012004059",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Sugar",
+      "name": "Sugar",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest/scale-to-width-down/192?cb=20141005232110",
+      "ageText": "22 (Physically 10)",
+      "isMinor": true
+    },
+    {
+      "id": "Sukare Karehosui",
+      "name": "Sukare Karehosui",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2a/Sukare_Karehosui_Manga_Infobox.png/revision/latest/scale-to-width-down/207?cb=20241102020925",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Taka",
+      "name": "Taka",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/19/Taka_Anime_Infobox.png/revision/latest/scale-to-width-down/246?cb=20241102071536",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Takao",
+      "name": "Takao",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/03/Takao_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20210904124913",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Tashigi",
+      "name": "Tashigi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/209?cb=20251127120726",
+      "ageText": "21 (debut) 23 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Tate",
+      "name": "Tate",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Tate_Anime_Infobox.png/revision/latest/scale-to-width-down/177?cb=20210501111145",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Tenjo-Sagari",
+      "name": "Tenjo-Sagari",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/27/Tenjo-Sagari_Anime_Infobox.png/revision/latest/scale-to-width-down/294?cb=20220220042630",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Tera",
+      "name": "Tera",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Tera_Portrait.png/revision/latest?cb=20230420195225",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Terracotta",
+      "name": "Terracotta",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Terracotta_Anime_Infobox.png/revision/latest/scale-to-width-down/272?cb=20240615233654",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Toko",
+      "name": "Toko",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Toko_Anime_Infobox.png/revision/latest/scale-to-width-down/317?cb=20200202102848",
+      "ageText": "6",
+      "isMinor": true
+    },
+    {
+      "id": "Tonsfer",
+      "name": "Tonsfer",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/06/Tonsfer_Manga_Infobox.png/revision/latest/scale-to-width-down/162?cb=20241102012738",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Tori",
+      "name": "Tori",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Tori_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210628192051",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Trafalgar Lami",
+      "name": "Trafalgar Lami",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/48/Trafalgar_Lami_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20150712150522",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Tristan",
+      "name": "Tristan",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/03/Tristan_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20161123183248",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Tsugaru Umi",
+      "name": "Tsugaru Umi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Tsugaru_Umi_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20200928160316",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Tsuru",
+      "name": "Tsuru",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/91/Tsuru_Anime_Infobox.png/revision/latest/scale-to-width-down/223?cb=20240730231455",
+      "ageText": "74 (debut) 76 (after timeskip)",
+      "isMinor": false
+    },
+    {
+      "id": "Tsurujo",
+      "name": "Tsurujo",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/75/Tsurujo_Anime_Infobox.png/revision/latest/scale-to-width-down/155?cb=20190901063038",
+      "ageText": "55",
+      "isMinor": false
+    },
+    {
+      "id": "Uholisia",
+      "name": "Uholisia",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Uholisia_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20250405164510",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ulti",
+      "name": "Ulti",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Ulti_Anime_Infobox.png/revision/latest/scale-to-width-down/154?cb=20240831170217",
+      "ageText": "22",
+      "isMinor": false
+    },
+    {
+      "id": "Uta",
+      "name": "Uta",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/06/Uta_Anime_Infobox.png/revision/latest/scale-to-width-down/206?cb=20250818013702",
+      "ageText": "21",
+      "isMinor": false
+    },
+    {
+      "id": "Vegapunk/Atlas",
+      "name": "Vegapunk/Atlas",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Atlas_Anime_Infobox.png/revision/latest/scale-to-width-down/172?cb=20240602021244",
+      "ageText": "2 (biologically 16)",
+      "isMinor": true
+    },
+    {
+      "id": "Vegapunk/Lilith",
+      "name": "Vegapunk/Lilith",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/63/Lilith_Anime_Infobox.png/revision/latest/scale-to-width-down/232?cb=20240609022158",
+      "ageText": "2 (biologically 24)",
+      "isMinor": true
+    },
+    {
+      "id": "Vegapunk/York",
+      "name": "Vegapunk/York",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/99/York_Anime_Infobox.png/revision/latest/scale-to-width-down/192?cb=20240714022211",
+      "ageText": "2 (biologically 16)",
+      "isMinor": true
+    },
+    {
+      "id": "Victoria Cindry",
+      "name": "Victoria Cindry",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Victoria_Cindry_Anime_Infobox.png/revision/latest/scale-to-width-down/219?cb=20231212221113",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Victoria Shiruton Doruyanaika",
+      "name": "Victoria Shiruton Doruyanaika",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Victoria_Shiruton_Doruyanaika_Manga_Infobox.png/revision/latest?cb=20210304173730",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Wakasa",
+      "name": "Wakasa",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Wakasa_Anime_Infobox.png/revision/latest/scale-to-width-down/224?cb=20210628221827",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Wanda",
+      "name": "Wanda",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/75/Wanda_Anime_Infobox.png/revision/latest/scale-to-width-down/166?cb=20160829034647",
+      "ageText": "28",
+      "isMinor": false
+    },
+    {
+      "id": "Whitey Bay",
+      "name": "Whitey Bay",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3b/Whitey_Bay_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20210720203345",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Wicca",
+      "name": "Wicca",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Wicca_Anime_Infobox.png/revision/latest/scale-to-width-down/289?cb=20140417025848",
+      "ageText": "27",
+      "isMinor": false
+    },
+    {
+      "id": "Yamanba",
+      "name": "Yamanba",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Yamanba_Anime_Infobox.png/revision/latest/scale-to-width-down/177?cb=20240905055245",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Yame",
+      "name": "Yame",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Yame_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20210711145724",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Ylva",
+      "name": "Ylva",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/21/Ylva_Manga_Infobox.png/revision/latest/scale-to-width-down/180?cb=20250427150740",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Yu",
+      "name": "Yu",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5c/Yu_Anime_Infobox.png/revision/latest/scale-to-width-down/243?cb=20250409185350",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Yuki",
+      "name": "Yuki",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Yuki_Anime_Infobox.png/revision/latest/scale-to-width-down/227?cb=20190904170446",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Zala",
+      "name": "Zala",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest/scale-to-width-down/158?cb=20221003164424",
+      "ageText": "26 (debut) 28 (after timeskip)",
+      "isMinor": false
+    }
+  ]
+}

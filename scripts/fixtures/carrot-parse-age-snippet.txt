@@ -1,0 +1,8 @@
+Statistics
+
+Age:
+  15 [ 5 ]
+
+Birthday:
+  May 24th [ 6 ]
+
