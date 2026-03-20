@@ -41,6 +41,7 @@ type CategoryMember = { title: string };
 
 const FANDOM_API_BASE = "https://onepiece.fandom.com/api.php";
 const FEMALE_CATEGORY = "Category:Female Characters";
+const EXTRA_CATEGORIES = ["Category:Princesses"];
 const AGE_PARSER_CACHE_VERSION = "v4";
 
 function safeFileName(input: string) {
@@ -107,7 +108,7 @@ async function fetchJson(url: string) {
 
 async function getFemaleTitles(opts: { limit?: number; cacheDir: string }) {
   const { limit, cacheDir } = opts;
-  const titlesCachePath = `${cacheDir}/female_titles.json`;
+  const titlesCachePath = `${cacheDir}/female_titles+princesses.json`;
   try {
     const cached = await import("node:fs/promises").then((fs) => fs.readFile(titlesCachePath, "utf8"));
     const parsed = JSON.parse(cached) as { titles: string[] };
@@ -116,38 +117,48 @@ async function getFemaleTitles(opts: { limit?: number; cacheDir: string }) {
     // Cache miss is expected.
   }
 
-  const titles: string[] = [];
-  let cmcontinue: string | undefined = undefined;
-  do {
-    const url = new URL(FANDOM_API_BASE);
-    url.searchParams.set("action", "query");
-    url.searchParams.set("list", "categorymembers");
-    url.searchParams.set("cmtitle", FEMALE_CATEGORY);
-    url.searchParams.set("cmnamespace", "0");
-    url.searchParams.set("cmlimit", "500");
-    url.searchParams.set("format", "json");
-    if (cmcontinue) url.searchParams.set("cmcontinue", cmcontinue);
+  const titlesSet = new Set<string>();
 
-    const data = await fetchJson(url.toString());
-    const members = (data?.query?.categorymembers ?? []) as CategoryMember[];
-    for (const m of members) {
-      titles.push(m.title);
-      if (limit && titles.length >= limit) break;
-    }
+  async function fetchTitlesForCategory(categoryTitle: string) {
+    let cmcontinue: string | undefined = undefined;
+    do {
+      const url = new URL(FANDOM_API_BASE);
+      url.searchParams.set("action", "query");
+      url.searchParams.set("list", "categorymembers");
+      url.searchParams.set("cmtitle", categoryTitle);
+      url.searchParams.set("cmnamespace", "0");
+      url.searchParams.set("cmlimit", "500");
+      url.searchParams.set("format", "json");
+      if (cmcontinue) url.searchParams.set("cmcontinue", cmcontinue);
 
-    cmcontinue = data?.continue?.cmcontinue;
-    if (limit && titles.length >= limit) break;
-  } while (cmcontinue);
+      const data = await fetchJson(url.toString());
+      const members = (data?.query?.categorymembers ?? []) as CategoryMember[];
+      for (const m of members) {
+        titlesSet.add(m.title);
+      }
+
+      cmcontinue = data?.continue?.cmcontinue;
+    } while (cmcontinue);
+  }
+
+  await fetchTitlesForCategory(FEMALE_CATEGORY);
+  for (const extra of EXTRA_CATEGORIES) {
+    await fetchTitlesForCategory(extra);
+  }
+
+  const titles = [...titlesSet];
+  titles.sort((a, b) => a.localeCompare(b));
+  const sliced = limit ? titles.slice(0, limit) : titles;
 
   // Best-effort cache.
   try {
     const fs = await import("node:fs/promises");
-    await fs.writeFile(titlesCachePath, JSON.stringify({ titles }), "utf8");
+    await fs.writeFile(titlesCachePath, JSON.stringify({ titles: sliced }), "utf8");
   } catch {
     // Ignore caching failures.
   }
 
-  return titles;
+  return sliced;
 }
 
 async function fetchPortraitsForTitles(titles: string[], pithumbsize: number) {

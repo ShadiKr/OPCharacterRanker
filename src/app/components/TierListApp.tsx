@@ -87,6 +87,14 @@ function tierColor(tier: Tier) {
 function CharacterCard(props: { character: FemaleCharacter; tier: Tier | undefined }) {
   const { character, tier } = props;
   const isRanked = Boolean(tier);
+  const teenYears = (() => {
+    if (!isRanked) return false;
+    if (!character.ageText) return false;
+    const nums = [...character.ageText.matchAll(/\b(\d{1,3})\b/g)].map((m) =>
+      Number.parseInt(m[1], 10)
+    );
+    return nums.some((n) => n >= 13 && n <= 17);
+  })();
 
   return (
     <div
@@ -117,9 +125,17 @@ function CharacterCard(props: { character: FemaleCharacter; tier: Tier | undefin
 
         {/* Only show minor/adult focus after ranking:
             We show the "Minor" badge only when they are ranked AND marked minor. */}
-        {isRanked && character.isMinor ? (
-          <div className="mt-1 inline-flex items-center rounded-full bg-rose-500/15 border border-rose-500/30 px-2 py-0.5 text-[10px] text-rose-200">
-            Minor
+        {isRanked && (character.isMinor || teenYears) ? (
+          <div className="mt-1 flex flex-wrap gap-1 items-center">
+            {teenYears ? (
+              <div className="inline-flex items-center rounded-full bg-amber-500/15 border border-amber-500/30 px-2 py-0.5 text-[10px] text-amber-200">
+                Teenager
+              </div>
+            ) : character.isMinor ? (
+              <div className="inline-flex items-center rounded-full bg-rose-500/15 border border-rose-500/30 px-2 py-0.5 text-[10px] text-rose-200">
+                Minor
+              </div>
+            ) : null}
           </div>
         ) : null}
       </div>

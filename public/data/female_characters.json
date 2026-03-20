@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-03-20T10:58:41.602Z",
-    "count": 289,
+    "generatedAt": "2026-03-20T11:05:44.394Z",
+    "count": 298,
     "source": "https://onepiece.fandom.com/wiki/One_Piece_Wiki",
     "category": "Category:Female Characters",
     "scrapeLimit": null
@@ -102,6 +102,13 @@
       "id": "Aswa",
       "name": "Aswa",
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Aswa_Anime_Infobox.png/revision/latest?cb=20130918202446",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Atoli",
+      "name": "Atoli",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/df/Atoli_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240615014301",
       "ageText": null,
       "isMinor": false
     },
@@ -799,6 +806,13 @@
       "isMinor": false
     },
     {
+      "id": "Goldfish Princess",
+      "name": "Goldfish Princess",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Goldfish_Princess_Manga_Infobox.png/revision/latest/scale-to-width-down/231?cb=20170312124941",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
       "id": "Grabar",
       "name": "Grabar",
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Grabar_Anime_Infobox.png/revision/latest/scale-to-width-down/310?cb=20140805072433",
@@ -1191,6 +1205,13 @@
       "isMinor": false
     },
     {
+      "id": "Mansherry",
+      "name": "Mansherry",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/5/54/Mansherry_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20161221094836",
+      "ageText": "25",
+      "isMinor": false
+    },
+    {
       "id": "Margarita",
       "name": "Margarita",
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Margarita_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20140512153338",
@@ -1237,6 +1258,13 @@
       "name": "Mato",
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/2/22/Mato_Anime_Infobox.png/revision/latest/scale-to-width-down/264?cb=20250103212833",
       "ageText": "Over 44",
+      "isMinor": false
+    },
+    {
+      "id": "Matryo Princesses",
+      "name": "Matryo Princesses",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/4/43/Matryo_Princesses_Anime_Infobox.png/revision/latest/scale-to-width-down/187?cb=20190428083358",
+      "ageText": null,
       "isMinor": false
     },
     {
@@ -1429,6 +1457,13 @@
       "isMinor": false
     },
     {
+      "id": "Nefertari Vivi",
+      "name": "Nefertari Vivi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/0/09/Nefertari_Vivi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/117?cb=20190505023647",
+      "ageText": "16 (debut) 18 (after timeskip)",
+      "isMinor": true
+    },
+    {
       "id": "Negikuma Maria",
       "name": "Negikuma Maria",
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Negikuma_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20130624224333",
@@ -1544,6 +1579,13 @@
       "id": "Portgas D. Rouge",
       "name": "Portgas D. Rouge",
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Portgas_D._Rouge_Anime_Infobox.png/revision/latest/scale-to-width-down/234?cb=20240731221040",
+      "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Poseidon",
+      "name": "Poseidon",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/7/71/Poseidon_Infobox.png/revision/latest/scale-to-width-down/320?cb=20210724164233",
       "ageText": null,
       "isMinor": false
     },
@@ -1735,6 +1777,13 @@
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Shinobu_Anime_Infobox.png/revision/latest/scale-to-width-down/185?cb=20241015051553",
       "ageText": "49",
       "isMinor": false
+    },
+    {
+      "id": "Shirahoshi",
+      "name": "Shirahoshi",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shirahoshi_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20240814220909",
+      "ageText": "16",
+      "isMinor": true
     },
     {
       "id": "Shyarly",
@@ -1958,6 +2007,20 @@
       "name": "Victoria Shiruton Doruyanaika",
       "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Victoria_Shiruton_Doruyanaika_Manga_Infobox.png/revision/latest?cb=20210304173730",
       "ageText": null,
+      "isMinor": false
+    },
+    {
+      "id": "Vinsmoke Reiju",
+      "name": "Vinsmoke Reiju",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Vinsmoke_Reiju_Anime_Infobox.png/revision/latest/scale-to-width-down/134?cb=20231211104854",
+      "ageText": "24",
+      "isMinor": false
+    },
+    {
+      "id": "Viola",
+      "name": "Viola",
+      "portraitUrl": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Viola_Anime_Infobox.png/revision/latest/scale-to-width-down/200?cb=20221027021751",
+      "ageText": "29",
       "isMinor": false
     },
     {
