@@ -150,7 +150,13 @@ function CharacterCard(props: {
       </div>
 
       {selected ? (
-        <div className="absolute inset-0 ring-2 ring-white/60 rounded-xl pointer-events-none" />
+        <>
+          <div className="absolute inset-0 bg-white/6 pointer-events-none" />
+          <div className="absolute inset-0 ring-4 ring-white/80 rounded-xl pointer-events-none" />
+          <div className="absolute left-2 top-2 px-2 py-0.5 rounded-full bg-white/15 border border-white/25 text-[10px] text-white pointer-events-none">
+            Selected
+          </div>
+        </>
       ) : null}
     </div>
   );
@@ -342,7 +348,6 @@ export default function TierListApp() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-zinc-950 via-zinc-950 to-zinc-800 text-zinc-50">
       <header className="max-w-7xl mx-auto px-4 py-6">
-        {/* Per your request: no title/instructions text */}
         <div className="flex gap-3 items-center mt-1 flex-wrap">
           <button
             type="button"
@@ -358,6 +363,15 @@ export default function TierListApp() {
           >
             Reset
           </button>
+        </div>
+
+        <div className="mt-4 text-sm text-zinc-300 space-y-1">
+          <div>
+            <span className="font-semibold text-zinc-50">Desktop:</span> drag cards into the tier rows.
+          </div>
+          <div>
+            <span className="font-semibold text-zinc-50">Mobile:</span> tap a card to select it, then tap a tier row to place it.
+          </div>
         </div>
       </header>
 
